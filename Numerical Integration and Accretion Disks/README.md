@@ -1,1 +1,1 @@
-
+In this project, we create and compile (using Cython), the null_integrator function that numerically integrates photon geodesics in stationary and axisymmetric spacetimes. This function is then used in a parallel setup to compute direct intensity images of a Kerr Black Hole illuminated by a thin accretion torus. The notebooks additionally contain the theoretical minima regarding spacetime setups, the Hamiltonian formulation of the differential equations and the implementation of the Radiative Transfer equation in its covariant form.
